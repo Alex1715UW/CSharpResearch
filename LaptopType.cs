@@ -1,5 +1,6 @@
-namespace CSharpResearch;
+// Alex Bell
 
+namespace CSharpResearch;
 public class LaptopType: AbstractComputerType {
     private double _screenSize;
 

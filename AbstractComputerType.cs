@@ -1,6 +1,8 @@
-namespace CSharpResearch;
+// Alex Bell
 
+namespace CSharpResearch;
 public abstract class AbstractComputerType: IComparable {
+
     private static int _counter;
     private string _manufacturer;
     private double _cpuClock;
